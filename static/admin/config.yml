@@ -1,8 +1,6 @@
 backend:
   name: git-gateway
-  repo: [gatsby-starter-netlify-cms]/[muralishan96].github.io
   branch: master
-  site_domain: https://github.com/muralishan96/gatsby-starter-netlify-cms
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
