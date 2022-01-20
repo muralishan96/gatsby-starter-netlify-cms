@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import Carousel from "../components/Carousel";
 
 // eslint-disable-next-line
 export const HistoryPageTemplate = ({ title, content, contentComponent }) => {
@@ -22,6 +23,7 @@ export const HistoryPageTemplate = ({ title, content, contentComponent }) => {
           </div>
         </div>
       </div>
+      <Carousel/>
     </section>
   );
 };
