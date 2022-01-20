@@ -14,6 +14,8 @@ tags:
   - Woman in Business
 ---
 **Sep 23, 24 2019, Christ University**
+
+
 Swarukta Charitable Trust in association with Christ University is back with its second edition of women entrepreneurs meet in Bengaluru “Women Entrepreneurs Beyond Boundaries – WEBB 2019” to be held on 23rd-24th September 2019.
 
 This event brings together innovators, investors, motivators and influencers who support female entrepreneurs and help them work towards a successful journey of growth and development.
@@ -21,6 +23,8 @@ This event brings together innovators, investors, motivators and influencers who
 More than 100 women entrepreneurs, business leaders and venture capitalist from different parts of the country will participate in the event and would highlight on the startup ecosystem, the rise of female participation in the business, and investment opportunities in the sub-continent.
 
 In addition to providing women entrepreneurs with a platform to connect with fellow professionals and expand their local and inter-state network, WEBB 2019 will also allow the female business magnates to attend many informative sessions that will help them deal with everyday challenges faced during business operations.
+
+![](/img/webb-invite.jpg)
 
 
 
