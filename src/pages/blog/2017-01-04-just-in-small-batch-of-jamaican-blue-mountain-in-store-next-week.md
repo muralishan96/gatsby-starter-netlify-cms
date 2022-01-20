@@ -1,34 +1,31 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: WEBB 2019 - Women Entrepreneur Beyond Boundaries
 date: 2017-01-04T15:04:10.000Z
+description: |+
+  Swakruta, In Association with Christ University
+
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/webb-invite.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Event
+  - WEBB 2019
+  - Entrepreneur
+  - Woman in Business
 ---
+**Sep 23, 24 2019, Christ University**
+Swarukta Charitable Trust in association with Christ University is back with its second edition of women entrepreneurs meet in Bengaluru “Women Entrepreneurs Beyond Boundaries – WEBB 2019” to be held on 23rd-24th September 2019.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+This event brings together innovators, investors, motivators and influencers who support female entrepreneurs and help them work towards a successful journey of growth and development.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+More than 100 women entrepreneurs, business leaders and venture capitalist from different parts of the country will participate in the event and would highlight on the startup ecosystem, the rise of female participation in the business, and investment opportunities in the sub-continent.
 
-## A little history
+In addition to providing women entrepreneurs with a platform to connect with fellow professionals and expand their local and inter-state network, WEBB 2019 will also allow the female business magnates to attend many informative sessions that will help them deal with everyday challenges faced during business operations.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+From the session on various women-centric schemes and government policies to one-on-one mentoring on finance management and customer-relations management, there are many takeaways of the event. In addition, there will be high-on-content seminars as well as speeches by motivational speakers.
 
-## What you need to know before trying
+Women entrepreneurs from across states can brainstorm, discuss and understand business expansion and start-up ideas and can work as a mentor to each other.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+As cultural and political barriers along with restricted access to capital and technology, limit the success of women-owned businesses, WEBB 2019 is aimed at empowering them by giving them a platform to connect and thrive. By hosting this networking event, Swarukta Charitable Trust hopes to foster a positive and accepting ecosystem for women entrepreneurs in Bengaluru and across the country.
