@@ -2,6 +2,25 @@ const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const ebazarVendors = require('./ebazar');
+
+const slugFnc = function(str) {
+  str = str.replace(/^\s+|\s+$/g, ''); // trim
+  str = str.toLowerCase();
+
+  // remove accents, swap ñ for n, etc
+  var from = "ãàáäâẽèéëêìíïîõòóöôùúüûñç·/_,:;";
+  var to   = "aaaaaeeeeeiiiiooooouuuunc------";
+  for (var i=0, l=from.length ; i<l ; i++) {
+    str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+  }
+
+  str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
+    .replace(/\s+/g, '-') // collapse whitespace and replace by -
+    .replace(/-+/g, '-'); // collapse dashes
+
+  return str;
+};
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -30,6 +49,23 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
+
+    // Create Ebazaar Vendors pages
+    ebazarVendors.forEach(item => {
+      const slug = slugFnc(item.name);
+      createPage({
+        path: `/ebazaar/stalls/${slug}`,
+        component: path.resolve(
+          `src/templates/ebazaar-stalls.js`
+        ),
+        // additional data can be passed via context
+        context: {
+          id: slug,
+          pageContent: item
+        },
+      })
+    })
+
 
     posts.forEach((edge) => {
       const id = edge.node.id

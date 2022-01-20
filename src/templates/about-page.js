@@ -42,7 +42,7 @@ const AboutPage = ({ data }) => {
     <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/blog-index.jpg')`,
+          backgroundImage: `url('/img/banner2.jpg')`,
         }}
       >
         <h1
