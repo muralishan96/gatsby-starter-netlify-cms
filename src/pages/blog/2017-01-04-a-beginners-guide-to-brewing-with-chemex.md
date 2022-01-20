@@ -1,29 +1,54 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: How Cocowing is converting Best from the Waste to beautiful biodegradable
+  Products
 date: 2017-01-04T15:04:10.000Z
+description: >-
+  Vandita Tiwari - Cocowing
+
+
+
+  We at CocoWing are working on the principle of extracting the Best from the Waste. We collect and clean the coconut garbage from nearby areas and make beautiful biodegradable jewellery, Candle Holders and Bowls from it. We are hiring and training underprivileged women to help them earn a living and support their family. Our business has two mottos: Reduce and reuse the coconut garbage and help the underprivileged.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/bio-vandita4.jpg
 tags:
-  - brewing
-  - chemex
+  - Biodegradable products
+  - Women entrepreneu
+  - r Digital Marketing
+  - Ecommerce
 ---
-![chemex](/img/chemex.jpg)
+![chemex]()
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+<!--StartFragment-->
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Our products are not only eco-friendly but also biodegradable, hence once of no use, it can be decluttered gulit free without spoiling the environment. Rather our products are soil conditioner, also helps to grow plants and maintain greenery in less water, so it saves water also.
 
-## The little secrets of Chemex brewing
+Our CocoWing eco friendly products are:
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Biodegradable Jewellery for Men and Women
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Biodegradable Bowls
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Biodegradable Candle Holders
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Cocopeat (soil conditioner)
+
+Let us know a little more about Vandita:
+
+She holds a degree in MCA and as the interest grew,she did a few certifications in Digital Marketing. In 2019, She did a certification in organic and hydroponics farming and certification in manufacturing fermented cocopeat from IIHR. Now, Vandita is a licensed offsite incubatee at Indian Institute of Horticulture Research.
+
+She is also a Digital Marketing Trainer. She also has an export surplus kids wear wholesale business by the name ShoppersWing.
+
+Recently in March 2019, She started her new Venture, CocoWing. She says about Cocowing,”We upcycle coconut waste. We are manufacturing soil conditioner which will help to do farming and gardening with less water and better crop yields”.
+
+“Reaching as many customers, creating Awareness about the products” were her initial struggles in the business. Vandita overcame these difficulties through extensive digital Marketing campaigns and awareness sessions about her products.
+
+Her mantra is “Knowledge and Passion and spirit of being ready to fail. Until you are ready to fail, you cannot succeed. Don't be scared but be ready you might fail”.
+
+She felt pleasure and happiness when she got her first customer. It's always an achievement and success to get the first customer. It improves the confidence in our business and product.
+
+<https://shopperswing.com/>
+
+<https://www.facebook.com/ShoppersWing/>
+
+<!--EndFragment-->
