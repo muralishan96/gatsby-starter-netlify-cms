@@ -1,17 +1,31 @@
 ---
 templateKey: blog-post
-title: Hello My New Blog
+title: How MindleIt is changing the "Art Of Thinking"
 date: 2022-01-17T04:58:59.240Z
-description: "My first blog creation "
+description: To Make Something Work Which Otherwise Wouldn't Work Without It
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 ---
-<!--StartFragment-->
+![](/img/mindle2.jpg)
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Megha Paradkar, started MindleIt. It is an organization started to help the current millennial generation to find their path of choice. It revolves around counseling for right career choices. They deal with individuals from 8th grade to elderly people at the age of 80+ years.
 
-![](/img/products-grid2.jpg)
+Megha Paradkar, have done masters in information technology and have total 25 yrs of IT corporate experience. With global exposure of 2 decades, have been closely working with new generation in various global massive programs and thus learnt about the flexible education system that leverages an individual potential. Acquired 2 international counselor accreditation from UCLA and CDA, US and turned into career counselor.
 
+Mindle enables individuals to take up a right journey to reach their destinations. We unfold their potential and help them to achieve success.
 
+Primarily we offer a complete customized solution meant for unique individual needs. Secondly, we don't spoon-feed, we enable you to take the right path.
 
-<!--EndFragment-->
+This is how the self inspired and enthusiastic Megha started her entrepreneurial journey, in her own words,
+
+"It was during my interactions with various students across the globe that displayed huge difference between our kids thinking in India and those growing overseas that I realised that our kids need the right hand-holding".
+
+We started this initiative in Jan 2019. It's all self funded and one woman army to begin with. Eventually the team grew to 8 members team in less than 6 months. Our future plan is to grow into a level that each deserving individual gets a mentor to be successful in their life.
+
+Facebook page: www.facebook.com/nirusworldofart
+
+Website: www.mindleit.com, #mindleit
+
+Contact no: 9880393004
+
+Email: Tomegh@gmail.com
