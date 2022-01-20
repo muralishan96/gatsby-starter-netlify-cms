@@ -1,19 +1,26 @@
 ---
 templateKey: about-page
 path: /about
-title: About  Edited
+title: Welcome to Swakruta!
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Swakruta is an NGO that promotes women entrepreneurship and supports women entrepreneurs to reach the pinnacle of success. Established in 2013, Swakruta has made a name for itself in the list of top NGO's from Bengaluru that promotes and supports women entrepreneurs across various fields like Arts, education, handicrafts, fashion, healthcare, IT, Retail, Ecommerce, etc
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+## What we strive
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Swakruta assists aspiring women entrepreneurs to launch their business successfully. We encourage non-entrepreneurs to start businesses of their own and we help in providing guidance to ensure financial stability.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+## Who we are
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+We are a group of like-minded, dynamic, enthusiastic and creative women entrepreneurs, who help each other learn from our business journeys, the ups and downs of our entrepreneurial path, the successes and the losses with equal curiosity and update and upgrade ourselves with an equal quest for knowledge. Together we learn, grow, empower women in all spheres.
+
+![](/img/ad_swakruta2019_35.jpg)
+
+## What we do
+
+Building a community of women entrepreneurs, Swakruta helps in unleashing the women's potential and passions, thus providing a way for women to obtain self-improvement and self-growth. We believe in the power of community to build, nurture, and sustain positive change. A platform where one can learn & share about business to achieve personal growth in one's life. We have more than 350 small and medium scaled women entrepreneurs, as we provide a platform to grow their business.
+
+We conduct regular workshops, mentorship, skill training programs, industry visits, expert lectures, exhibitions & trade shows
+
+We believe that women entrepreneurs have extraordinary, outstanding and groundbreaking potential to break the barriers in the field of leadership, philanthropy, and economic advancement.
+
+`Swakruta is a platform where women can tap their inner passion, pursue their goals, reach out to people, create unique identities, help the society, live the life to its fullest.`
